@@ -6,6 +6,6 @@
 
 - 个人博客：https://codeape.site/
 
-- 掌握技术：`React`, `Vue3`, `JS`, `TS`，小程序
+- 掌握技术：`React` `Vue3` `JS` `TS` `小程序` `Canvas`
 
 <!--  [![ApeWhoLovesCode](https://github-readme-stats.vercel.app/api?username=ApeWhoLovesCode)](https://github.com/anuraghazra/github-readme-stats) -->
